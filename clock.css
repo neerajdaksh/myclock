@@ -1,0 +1,33 @@
+body {
+    margin: 0 auto;
+    width: 700px;
+      background: linear-gradient(to right, rgb(136, 144, 255), rgb(255, 156, 239)); 
+     
+}
+
+#clockbox {
+    width: 700px;
+    margin-top: 300px;
+    background-color:black;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px;
+    font-size: 50px;
+    box-shadow: 10px 10px 40px 10px black;
+
+
+}
+
+.timebox {
+    width: 200px;
+    height: 170px;
+    color: white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 100px;
+    
+}
+ 
